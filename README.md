@@ -14,7 +14,7 @@ At Comerito, the mission is to empower OroCommerce clients with practical, high-
 
 **What We Offer**
 
-- Comerito specializes in developing reliable and user-friendly extensions tailored specifically for OroCommerce. These extensions aim to:
+Comerito specializes in developing reliable and user-friendly extensions tailored specifically for OroCommerce. These extensions aim to:
 
 - Enhance analytics and reporting.
 
@@ -26,9 +26,9 @@ At Comerito, the mission is to empower OroCommerce clients with practical, high-
 
 Comerito is more than just a business; it’s a journey of growth and contribution to the OroCommerce ecosystem. As the business grows, Comerito aims to:
 
-Expand its offerings with more advanced and innovative extensions.
+- Expand its offerings with more advanced and innovative extensions.
 
-Build long-lasting relationships with clients who value reliability and innovation.
+- Build long-lasting relationships with clients who value reliability and innovation.
 
 **Get in Touch**
 
